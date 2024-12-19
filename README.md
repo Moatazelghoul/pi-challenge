@@ -1,3 +1,5 @@
+[![Build Status](http://localhost:8081/buildStatus/icon?job=pi-challenge)](http://localhost:8081/job/pi-challenge/)
+
 # 03_05 Challenge Connect Jenkins to GitHub
 
 You're on a team developing an algorithm that calculates the value of pi.
